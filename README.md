@@ -1,5 +1,5 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prabhjot Singh
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=prabhxjottsingh" alt="prabhxjottsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhxjottsingh" alt="prabhxjottsingh" /> </p>
 
 - 📄 I’m currently **2nd year** undergrad at CU, Mohali.
 - 🌱 I’m currently **learning DSA** and have keen interest in **open source** too.
@@ -12,7 +12,6 @@
      5. [HackerRank Profile](https://www.hackerrank.com/prabhx_jott)
      6. [SPOJ](https://www.spoj.com/myaccount/)
      7. [Atcoder Profile](https://atcoder.jp/users/prabhxs)
-
 - 💬 Ask me about any tech related query.
 - 📫 Contact me: 
      - [LinkedIn](https://www.linkedin.com/in/prabhxjottsingh/)
