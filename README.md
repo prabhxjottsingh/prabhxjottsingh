@@ -37,7 +37,7 @@
 
 <p align="center">
     <a href="https://github.com/prabhxjottsingh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekarora-02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxsjottsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -58,6 +58,6 @@
 
 <div align="center">
 
-### You can stalk me more on my portfolio website [Prabhxs](https://prabhxjottsingh.github.io/prabh-portfolio/) :)!
+### You can stalk me more on my portfolio website [Prabhxs](https://prabhxjottsingh.github.io/prabh-portfolio/), thanks for viewing my profile :)!
 
 </div>
