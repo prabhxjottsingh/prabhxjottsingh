@@ -17,7 +17,7 @@
 - 📫 Contact me: 
      - [LinkedIn](https://www.linkedin.com/in/prabhxjottsingh/)
      - [Twitter](https://twitter.com/Prabhxs)
-     - <a href="mailto:webmaster@example.com">Mail</a>
+     - <a href="mailto:prabhx.jott@gmail.com">Mail</a>
 - ⚡ I love solving new problems and learning new things.
 
 ## Languages and Tools:
@@ -34,20 +34,13 @@
 
 ## 📊 My Github Stats
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-   <tr>
-    <td>
-      <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=prabhxjottsingh&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Prabhjot's github stats">
-      <a/>
-    </td>
-    <td>
-      <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhxjottsingh&theme=github_dark&layout=compact&hide_border=true" alt="Prabhjot's language stats">
-      <a/>
-    </td>
-   </tr>
-  <tr>
+
+<p align="center">
+    <a href="https://github.com/prabhxjottsingh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prabhjot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxjottsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
       <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
@@ -56,7 +49,7 @@
     </td>
     <td>
       <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdolbun&repo=alexdolbun&theme=github_dark&hide_border=true" alt="Prabhjot's Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhxjottsingh&theme=github_dark&layout=compact&hide_border=true" alt="Prabhjot's language stats">
       <a/>
     </td>
    </tr>
@@ -66,14 +59,15 @@
 --- 
 
 ## Also Find me on:
-[<img align="left" alt="Prabhjot | Twitter" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Prabhjot | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<code>[<img align="left" alt="Prabhjot | Twitter" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="left" alt="Prabhjot | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="Prabhjot | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+</code>
 
 <br>
 
 [twitter]: https://twitter.com/Prabhxs
 [linkedin]: https://www.linkedin.com/in/prabhxjottsingh/
 [github]: https://github.com/prabhxjottsingh
+[instagram]: https://www.instagram.com/prabhxs/
 <br>
 <div align="center">
 
