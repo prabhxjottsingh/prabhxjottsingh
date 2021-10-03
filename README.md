@@ -35,19 +35,20 @@
 
 
 <p align="center">
-    <a href="https://github.com/prabhxjottsingh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prabhjot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxjottsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=prabhxjottsingh&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Prabhjot's github stats">
+      <a/>
 </p>
  <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
-      <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxjottsingh&theme=tokyonight_duo&hide_border=true" alt="Prabhjot's streak stats">
+      <a href="https://github.com/prabhxjottsingh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prabhjot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhxjottsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
       <a/>
     </td>
     <td>
-      <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank">
+      <a href="https://prabhxjottsingh.github.io/prabh-portfolio/" target="_blank" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhxjottsingh&theme=github_dark&layout=compact&hide_border=true" alt="Prabhjot's language stats">
       <a/>
     </td>
