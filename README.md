@@ -6,7 +6,7 @@
 - 📘 I also **like solving problems** and thus have intrest in **Competitive Programming** too.
 - ⌨️ I love solving questions on different coding platforms, you can check **my profiles** here: 
      1. [CodeChef Profile](https://www.codechef.com/users/prbhjot_singh)
-     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs2)
+     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs)
      3. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxjott/practice/)
      4. [Leetcode Profile](https://leetcode.com/prabhxs/)
      5. [HackerRank Profile](https://www.hackerrank.com/prabhx_jott)
