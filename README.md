@@ -4,14 +4,12 @@
 - 📄 I’m currently **2nd year** undergrad at CU, Mohali.
 - 🌱 I’m currently **learning DSA** and have keen interest in **open source** too.
 - 📘 I also **like solving problems** and thus have intrest in **Competitive Programming** too.
-- ⌨️ I love solving questions on different coding platforms, you can check **my profiles** here: 
-     1. [CodeChef Profile](https://www.codechef.com/users/prbhjot_singh)
+- ⌨️ I practise problems regulalry to upgrade my problem solving skills on following platforms, you can check **my profiles** here: 
+     1. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxjott/practice/)
      2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs)
-     3. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxjott/practice/)
-     4. [Leetcode Profile](https://leetcode.com/prabhxs/)
-     5. [HackerRank Profile](https://www.hackerrank.com/prabhx_jott)
-     6. [SPOJ](https://www.spoj.com/myaccount/)
-     7. [Atcoder Profile](https://atcoder.jp/users/prabhxs)
+     3. [CodeChef Profile](https://www.codechef.com/users/prbhjot_singh)
+     4. [Atcoder Profile](https://atcoder.jp/users/prabhxs)
+     5. [Leetcode Profile](https://leetcode.com/prabhxs/)
 - 💬 Ask me about any tech related query.
 - 📫 Contact me: 
      - [LinkedIn](https://www.linkedin.com/in/prabhxjottsingh/)
