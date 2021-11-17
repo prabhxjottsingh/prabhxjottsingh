@@ -65,7 +65,7 @@
 [twitter]: https://twitter.com/Prabhxs
 [linkedin]: https://www.linkedin.com/in/prabhxjottsingh/
 [github]: https://github.com/prabhxjottsingh
-[instagram]: https://www.instagram.com/prabhxs/
+[instagram]: https://www.instagram.com/secret.xx_/
 <br>
 <div align="center">
 
