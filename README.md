@@ -1,4 +1,4 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prabhjot Singh
+## Hey there, I'm Prabhjot Singh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhxjottsingh" alt="prabhxjottsingh" /> </p>
 
 - 📄 I’m currently **2nd year** undergrad at CU, Mohali.
