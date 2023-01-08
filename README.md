@@ -1,15 +1,15 @@
 ## Hey there, I'm Prabhjot Singh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhxjottsingh" alt="prabhxjottsingh" /> </p>
 
-- 📄 I’m currently **2nd year** undergrad at CU, Mohali.
+- 📄 I’m currently **3rd year** undergrad at CU, Mohali.
 - 🌱 I’m currently **learning DSA** and have keen interest in **open source** too.
 - 📘 I also **like solving problems** and thus have intrest in **Competitive Programming** too.
 - ⌨️ I practise problems regulalry to upgrade my problem solving skills on following platforms, you can check **my profiles** here: 
-     1. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxjott/practice/) (400+ Problems Solved, Institute Rank - 3)
-     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs) (Max. Rating - 1400(Specialist), 800+ Problems Solved)
-     3. [CodeChef Profile](https://www.codechef.com/users/prabhjotxsingh) (Max. Rating - 1815 (4*))
-     4. [Atcoder Profile](https://atcoder.jp/users/prabhxs) (Rating - 541)
-     5. [Leetcode Profile](https://leetcode.com/prabhxs/) (350+ Problems Solved)
+     1. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxjott/practice/) (650+ Problems Solved, Institute Rank - 4)
+     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs) (Max. Rating - 1469(Specialist), 1100+ Problems Solved)
+     3. [CodeChef Profile](https://www.codechef.com/users/cu_np_2558) (Max. Rating - 2024 (5*))
+     4. [Atcoder Profile](https://atcoder.jp/users/prabhxs) (Rating - 923)
+     5. [Leetcode Profile](https://leetcode.com/prabhxs/) (550+ Problems Solved)
 - 💬 Ask me about any tech related query.
 - 📫 Contact me: 
      - [LinkedIn](https://www.linkedin.com/in/prabhxjottsingh/)
