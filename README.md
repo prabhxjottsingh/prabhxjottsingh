@@ -5,11 +5,11 @@
 - 🌱 I’m currently **learning DSA** and have keen interest in **open source** too.
 - 📘 I also **like solving problems** and thus have intrest in **Competitive Programming** too.
 - ⌨️ I practise problems regulalry to upgrade my problem solving skills on following platforms, you can check **my profiles** here: 
-     1. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxs) (650+ Problems Solved, Institute Rank - 4)
-     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs) (Max. Rating - 1469(Specialist), 1100+ Problems Solved)
-     3. [CodeChef Profile](https://www.codechef.com/users/cu_np_2558) (Max. Rating - 2024 (5*))
-     4. [Atcoder Profile](https://atcoder.jp/users/prabhxs) (Rating - 923)
-     5. [Leetcode Profile](https://leetcode.com/prabhxs/) (550+ Problems Solved)
+     1. [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/prabhxs) (850+ Problems Solved, Institute Rank - 5)
+     2. [Codeforces Profile](https://codeforces.com/profile/Prabhxs) (Max. Rating - 1625(Expert), 1530+ Problems Solved)
+     3. [CodeChef Profile](https://www.codechef.com/users/cu_np_2558) (Max. Rating - 2058 (5*))
+     4. [Atcoder Profile](https://atcoder.jp/users/prabhxs) (Rating - 1050+)
+     5. [Leetcode Profile](https://leetcode.com/prabhxs/) (900+ Problems Solved, Rating: 2100+(Top 1.5%))
 - 💬 Ask me about any tech related query.
 - 📫 Contact me: 
      - [LinkedIn](https://www.linkedin.com/in/prabhxjottsingh/)
