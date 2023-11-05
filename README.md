@@ -1,7 +1,7 @@
 ## Hey there, I'm Prabhjot Singh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhxjottsingh" alt="prabhxjottsingh" /> </p>
 
-- 📄 I’m currently **3rd year** undergrad at CU, Mohali.
+- 📄 I’m currently **4th year** undergrad at CU, Mohali.
 - 🌱 I’m currently **learning DSA** and have keen interest in **open source** too.
 - 📘 I also **like solving problems** and thus have intrest in **Competitive Programming** too.
 - ⌨️ I practise problems regulalry to upgrade my problem solving skills on following platforms, you can check **my profiles** here: 
